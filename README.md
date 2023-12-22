@@ -11,6 +11,26 @@ Este repositorio contiene el script de la base de datos para el proyecto **ppr-a
 
 - `data.sql`: En caso de que se proporcionen datos de ejemplo, este archivo contiene instrucciones para cargar datos iniciales en la base de datos.
 
+> [!IMPORTANT]
+> Al ejecutar el archivo `data.sql`, ten en cuenta lo siguiente.
+
+## Contraseñas de Usuarios Generadas
+
+### Usuario Administrador
+
+- **Email de usuario:** admin@admin.com
+- **Contraseña Predeterminada:** admin
+
+### Usuario Personal
+
+- **Email de usuario:** personal@personal.com
+- **Contraseña Predeterminada:** personal
+
+### Usuario Normal
+
+- **Email de usuario:** usuario@usuario.com
+- **Contraseña Predeterminada:** usuario
+
 ## Instrucciones
 
 Para utilizar este script, sigue los pasos a continuación:
