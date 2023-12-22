@@ -2,6 +2,8 @@
 
 Este repositorio contiene el script de la base de datos para el proyecto **ppr-apibiblioteca**. Este script está diseñado para inicializar la base de datos con la estructura necesaria y, en algunos casos, cargar datos de ejemplo.
 
+> [!NOTE] > **PPR:** Este proyecto es de carácter personal y se ha creado con el propósito de práctica y aprendizaje. La abreviatura "PPR" se refiere a "Proyecto Personal de Práctica".
+
 ## Contenido
 
 - `schema.sql`: Este archivo contiene la estructura de la base de datos, incluyendo tablas, índices y relaciones necesarias.
