@@ -1,4 +1,4 @@
-# ppr-apibiblioteca-db-script
+# ppr-biblioteca-db-script
 
 Este repositorio contiene el script de la base de datos para el proyecto **ppr-apibiblioteca**. Este script está diseñado para inicializar la base de datos con la estructura necesaria y, en algunos casos, cargar datos de ejemplo.
 
